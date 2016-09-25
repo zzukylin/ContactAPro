@@ -1,0 +1,4 @@
+<resources>
+    <string name="hello">欢迎使用通讯录系统！</string>
+    <string name="app_name">通讯录系统</string>
+</resources>
